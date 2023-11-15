@@ -1,7 +1,9 @@
 # Meloetta-Helper
 A discord bot made for identifying Pokémon for the Meloetta Discord Bot
 
-How to use:
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+# [Installing](docs/installing.md)
 
 1. Clone the git repository first to your machine.
 
@@ -21,3 +23,8 @@ git clone https://github.com/rainigus/Meloetta-Helper
 node main.js
 ```
 
+# Task List
+
+- [x] Adding support for Alolan, Hisui, Galar, Paldean forms
+- [ ] Alternative method of identifying Pokémon rather than file names.
+- [ ] Organizing the code
